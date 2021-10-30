@@ -1,0 +1,15 @@
+package selfProgramming;
+
+public class AssignmentConversion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int dollar;
+		dollar = 30;
+		double money = dollar;
+		
+		System.out.println("This lipstick is " + money + " $ ");
+
+	}
+
+}
